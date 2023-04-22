@@ -3,3 +3,5 @@ node_modules
 .idea
 packeg-version.txt
 /storybook-static/
+/.loki/report.html
+/.loki/report.json
