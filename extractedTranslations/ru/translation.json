@@ -1,8 +1,12 @@
 {
+  "": "",
+  "Auth Form": "Auth Form",
   "Enter": "Enter",
   "Enter Text": "Enter Text",
   "Enter password": "Enter password",
   "Enter username": "Enter username",
+  "Exit": "Exit",
+  "Incorrect username or password": "Incorrect username or password",
   "Page not found": "Page not found",
   "Refresh page": "Refresh page",
   "Something went wrong": "Something went wrong",
